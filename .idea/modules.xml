@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dropping.iml" filepath="$PROJECT_DIR$/.idea/dropping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropping/dropping.iml" filepath="$PROJECT_DIR$/dropping/dropping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dropping-back-end-spring.iml" filepath="$PROJECT_DIR$/.idea/dropping-back-end-spring.iml" />
     </modules>
   </component>
 </project>
