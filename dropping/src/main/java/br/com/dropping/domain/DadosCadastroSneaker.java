@@ -17,4 +17,5 @@ public record DadosCadastroSneaker(
         @NotBlank(message = "O gênero não pode estar em branco")
         String gender
 ) {
+
 }
